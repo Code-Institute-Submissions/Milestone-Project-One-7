@@ -25,3 +25,10 @@ header {
 span {
     text-align: right;
 }
+h1, h2{
+    text-align: center;
+}
+.offset-md-3 {
+    margin:0;
+    padding: 10px;
+}
