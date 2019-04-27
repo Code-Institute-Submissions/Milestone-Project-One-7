@@ -1,30 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600');
 
 body {
-    background: url(/assets/images/monkees.jpg );
+    background: url(/assets/images/themonkees2.jpg );
     background-size: 100% 100%;
+    color: #FFFFFF;
 }
 header {
     margin:10px;
 }
 .ui-menu-color {
     color: #800000;
-}
-
-@media (max-width: 767px) {
-    .mobile {
-        background-color: #0997d3;
-    }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-    .tablet{
-        background-color: #bada55;
-    }
-}
-@media (min-width: 992px) and (max-width: 1800px) {
-    .desktop {
-        background-color: #000
-    }
 }
 span {
     text-align: right;
@@ -68,4 +53,45 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #FFFF00;
     background-color: #008080;
+}
+.gallery {
+  border: 1px solid #ccc;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  display: table;
+  clear: both;
 }
