@@ -95,3 +95,8 @@ button[type="submit"] {
   display: table;
   clear: both;
 }
+.info {
+    text-align: center;
+    font-size: x-large;    
+    
+}
