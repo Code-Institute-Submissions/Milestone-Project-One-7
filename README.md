@@ -46,4 +46,4 @@ This site is hosted using GitHub pages, deployed directly from the master branch
 
 ### Acknowledgements
 
-- I received inspiration for this project from the student example projects and other project i looked up online. 
+- I received inspiration for this project from the student example projects and other projects i looked up online. 
