@@ -2,8 +2,8 @@
 
 Stream One Project: User Centric Frontend Development - Code Institute
 
-This is a website on the monkees providing sample music and videos to showcase to potnetial fans and people who may wish to book them.
-It contains sections with a background on the band and enables them to book the band byt using the booking form.
+This is a website on the monkees providing sample music and videos to showcase to potential fans and people who may wish to book them.
+It contains sections with a background on the band and enables them to book the band by using the booking form.
 
 ## Demo
 A live demo can be found [here](https://davidcotter2.github.io/Milestone-Project-One/).
