@@ -6,7 +6,7 @@ This is a website on the monkees providing sample music and videos to showcase t
 It contains sections with a background on the band and enables them to book the band byt using the booking form.
 
 ## Demo
-A live demo can be found [here](https://milestone-project-one-davidcotter2.c9users.io/index.html).
+A live demo can be found [here](https://davidcotter2.github.io/Milestone-Project-One/).
 
 ## UX
  
